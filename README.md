@@ -2,7 +2,7 @@
 - 👀 I’m interested in blockchain projects, php projects and js projects
 - 🌱 I’m currently learning MERN, Solidity and Machine Learning with Python.
 - 💞️ I’m looking to collaborate on Solidity Projects.
-- 📫 How to reach me with my email mohipier@gmail.com
+- 📫 you can reach me with my email mohipier@gmail.com
 
 <!---
 mohipier/mohipier is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
