@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mohipier
 - 👀 I’m interested in blockchain projects, php projects and js projects
-- 🌱 I’m currently learning MERN, Solidity and Machine Learning with Python.
+- 🌱 I’m currently learning MERN Stack, Solidity and Machine Learning with Python.
 - 💞️ I’m looking to collaborate on Solidity Projects.
 - 📫 you can reach me with my email mohipier@gmail.com
 
